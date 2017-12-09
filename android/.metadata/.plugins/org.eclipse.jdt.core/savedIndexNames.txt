@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/degan/workspace/android/.metadata/.plugins/org.eclipse.jdt.core
+1910169711.index
+410747372.index

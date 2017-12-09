@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src"/>
+	<classpathentry kind="src" output="bin/test" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/userLib"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/unitils-core-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-core-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-context-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/derby-10.11.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/degan/다운로드/spring-context-3.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/derbytools-10.11.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/dbunit-2.4.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/slf4j-api-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/derbyclient-10.11.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/derbynet-10.11.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/slf4j-simple-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-beans-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-aop-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/hamcrest-library-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/junit-4.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/spring-asm-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/hamcrest-all-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/degan/다운로드/hamcrest-junit-2.0.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
